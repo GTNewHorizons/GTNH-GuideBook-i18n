@@ -3094,7 +3094,7 @@ gtnh.quest772.desc=You will use this a lot to make high tier circuits, and for o
 
 #Quest_773.Way one: Raw carbon mesh
 gtnh.quest773.name=Way one: Raw carbon mesh
-gtnh.quest773.desc=This way of making carbon requires autoclaveing 4 carbon dust. You can use polyethylene wich gives you only 1 raw carbon fibre at LV tier, polytetrafluoroethylene gives you 2 at MV Tier or go for the best way: molten epoxid which yields 4 at HV Tier.  
+gtnh.quest773.desc=This way of making carbon requires autoclaveing 4 carbon dust, you can use polyethylene which gives you only 1 raw carbon fibre at LV Tier, polytetrafluoroethylene gives you 2 at MV Tier or the best way molten epoxid which yields 4 at HV Tier.  
 
 #Quest_774.Way two: Bio Organic Mesh
 gtnh.quest774.name=Way two: Bio Organic Mesh
